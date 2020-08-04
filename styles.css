@@ -22,3 +22,7 @@
     font-size: 60%; /* controle das medidas rem */
 }
 
+body {
+    background-color: var(--color-background);
+    
+}
